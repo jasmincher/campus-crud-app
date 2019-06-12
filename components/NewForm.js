@@ -1,0 +1,1 @@
+//this will be used for new campus, and new student form. This will contain the campus/student name, input box, add campus/add student button. 

@@ -1,0 +1,1 @@
+//this will contain the campus img, campus name, # of students, and an edit link, this will show up several times, in the campus listing.
