@@ -10,6 +10,7 @@ class Header extends Component {
   }
   render() {
     const path = this.props.location.pathname.slice(1);
+    
     return (
       <div>
         <h1>{path}</h1>
