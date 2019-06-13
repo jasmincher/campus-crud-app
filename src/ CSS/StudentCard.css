@@ -9,6 +9,7 @@ img{
     border: black 1px solid;
     display: inline-block;
     margin: 20px;
+    box-shadow: 8px 8px 10px rgb(194, 194, 194);
    
 }
 .font{
