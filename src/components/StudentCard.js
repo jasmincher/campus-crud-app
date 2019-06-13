@@ -5,6 +5,7 @@ import '../ CSS/StudentCard.css'
 function StudentCard(props) {
     return (
         <div className="card">
+            
             <img src={props.img} />
            
             <div className="font">
