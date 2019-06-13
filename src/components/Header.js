@@ -1,16 +1,21 @@
-//header with the title corresponding to the content will go here
+import React, { Component } from "react";
+import { withRouter } from "react-router-dom";
 
 
-import React from 'react';
 
 
-class Header extends React.Component {
+class Header extends Component {
+  constructor(props) {
+    super(props);
+  }
   render() {
+    const path = this.props.location.pathname.slice(1);
     return (
-    <h2 className="header">Name of Page</h2>
-      
-    
-    )
+      <div>
+        <h1>{path}</h1>
+      </div>
+    );
   }
 }
-export default Header;
+
+export default withRouter(Header);
