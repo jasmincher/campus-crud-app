@@ -1,0 +1,10 @@
+
+.top{
+   margin: 20px;
+   display: inline-block;
+}
+
+.top + *{
+    float: right;
+
+}
