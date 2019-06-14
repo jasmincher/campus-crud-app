@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/campus-crud-app/static/css/main.c22a02b3.chunk.css",
-    "main.js": "/campus-crud-app/static/js/main.9ce70e2f.chunk.js",
-    "main.js.map": "/campus-crud-app/static/js/main.9ce70e2f.chunk.js.map",
+    "main.js": "/campus-crud-app/static/js/main.7f9a391f.chunk.js",
+    "main.js.map": "/campus-crud-app/static/js/main.7f9a391f.chunk.js.map",
     "runtime~main.js": "/campus-crud-app/static/js/runtime~main.25ef9c66.js",
     "runtime~main.js.map": "/campus-crud-app/static/js/runtime~main.25ef9c66.js.map",
-    "static/js/2.8a2a16d6.chunk.js": "/campus-crud-app/static/js/2.8a2a16d6.chunk.js",
-    "static/js/2.8a2a16d6.chunk.js.map": "/campus-crud-app/static/js/2.8a2a16d6.chunk.js.map",
+    "static/js/2.14710e61.chunk.js": "/campus-crud-app/static/js/2.14710e61.chunk.js",
+    "static/js/2.14710e61.chunk.js.map": "/campus-crud-app/static/js/2.14710e61.chunk.js.map",
     "index.html": "/campus-crud-app/index.html",
-    "precache-manifest.2cd5201dc1de9eca8bf13764a0e9f899.js": "/campus-crud-app/precache-manifest.2cd5201dc1de9eca8bf13764a0e9f899.js",
+    "precache-manifest.f4009ef6350d1629dc3d89b5fd3642f3.js": "/campus-crud-app/precache-manifest.f4009ef6350d1629dc3d89b5fd3642f3.js",
     "service-worker.js": "/campus-crud-app/service-worker.js",
     "static/css/main.c22a02b3.chunk.css.map": "/campus-crud-app/static/css/main.c22a02b3.chunk.css.map"
   }
