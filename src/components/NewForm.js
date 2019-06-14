@@ -1,1 +1,16 @@
-//this will be used for new campus, and new student form. This will contain the campus/student name, input box, add campus/add student button. 
+import '../ CSS/StudentCard.css'
+import React from 'react';
+
+function NewForm(props) {
+    return (
+        <form>
+            <h1>{props.title}</h1> 
+            <input type="text"/>  
+        </form>                    
+
+    );
+
+}
+
+
+export default NewForm;

@@ -1,3 +1,13 @@
-//this will be used for when we want to see all listings for either students or campuses, and there arent any
+// import '../ CSS/StudentCard.css'
+import React from 'react';
 
-//this will show student img, student name, and campus name, this will show up on the students listing
+function BlankSlate(props) {
+    return (
+        <div>
+            <p>{props.info}</p>
+        </div>
+    );
+}
+
+
+export default BlankSlate;
