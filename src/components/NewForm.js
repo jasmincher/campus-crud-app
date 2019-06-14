@@ -1,16 +1,15 @@
-import '../ CSS/StudentCard.css'
+import '../ CSS/NewForm.css'
 import React from 'react';
 
 function NewForm(props) {
     return (
         <form>
-            <h1>{props.title}</h1> 
+            <h2>{props.title}</h2> 
             <input type="text"/>  
         </form>                    
 
     );
 
 }
-
 
 export default NewForm;

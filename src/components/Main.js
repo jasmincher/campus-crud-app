@@ -9,9 +9,6 @@ import BlankSlateStudents from './BlankSlateStudents';
 
 const Main = () => (
   
-
-
-  
     <Switch>
       <Route path='/Home' component={Home}/>
       <Route path='/Students Listing' component={Students}/>
