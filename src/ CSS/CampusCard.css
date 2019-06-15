@@ -1,0 +1,30 @@
+.campus-img{
+    width: 160px;
+    height: 100px;
+    margin: 10px;
+}
+
+
+.campus-card{
+width: 350px;
+height: 150px;
+margin: 20px;
+display: inline-block;
+border: black 1px solid;
+box-shadow: 8px 8px 10px rgb(194, 194, 194);
+transition: transform .1s; 
+
+}
+
+
+.campus-card:hover{
+    transform: scale(1.1);
+}
+
+.desc{
+    font-size: 10px;
+    float: right;
+    margin: 20px;
+    line-height: 20px;
+  
+}
