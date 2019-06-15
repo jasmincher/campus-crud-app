@@ -3,11 +3,11 @@ import '../ CSS/StudentCard.css'
 
 function StudentCard(props) {
     return (
-        <div className="card">
+        <div className="student-card">
             
-            <img src={props.img} />
+            <img src={props.img} className="student-img"/>
            
-            <div className="font">
+            <div className="text">
                 <p>{props.studentName}</p>
                 <p>{props.campusName}</p>
             </div>

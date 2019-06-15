@@ -1,10 +1,10 @@
-img{
+.student-img{
     width: 120px;
     padding: 10px;
     padding-bottom: 0px;
 }
 
-.card{
+.student-card{
     width: 120px;
     border: black 1px solid;
     display: inline-block;
@@ -13,11 +13,11 @@ img{
     transition: transform .1s; 
 }
 
-.card:hover{
+.student-card:hover{
     transform: scale(1.1);
 }
 
-.font{
+.text{
     font-size: 10px;
     margin: 20px;
     line-height: 0px;
