@@ -1,15 +1,18 @@
 {
   "files": {
-    "main.css": "/campus-crud-app/static/css/main.485018c5.chunk.css",
-    "main.js": "/campus-crud-app/static/js/main.b032c6fd.chunk.js",
-    "main.js.map": "/campus-crud-app/static/js/main.b032c6fd.chunk.js.map",
+    "main.css": "/campus-crud-app/static/css/main.140f6674.chunk.css",
+    "main.js": "/campus-crud-app/static/js/main.9a0339a8.chunk.js",
+    "main.js.map": "/campus-crud-app/static/js/main.9a0339a8.chunk.js.map",
     "runtime~main.js": "/campus-crud-app/static/js/runtime~main.25ef9c66.js",
     "runtime~main.js.map": "/campus-crud-app/static/js/runtime~main.25ef9c66.js.map",
-    "static/js/2.53278a1f.chunk.js": "/campus-crud-app/static/js/2.53278a1f.chunk.js",
-    "static/js/2.53278a1f.chunk.js.map": "/campus-crud-app/static/js/2.53278a1f.chunk.js.map",
+    "static/js/2.53aebe86.chunk.js": "/campus-crud-app/static/js/2.53aebe86.chunk.js",
+    "static/js/2.53aebe86.chunk.js.map": "/campus-crud-app/static/js/2.53aebe86.chunk.js.map",
     "index.html": "/campus-crud-app/index.html",
-    "precache-manifest.63e3b974d9c4cd9ccf42e13d43d65f3e.js": "/campus-crud-app/precache-manifest.63e3b974d9c4cd9ccf42e13d43d65f3e.js",
+    "precache-manifest.9bcac8875d2a1eddf3bb8c66d8ec365c.js": "/campus-crud-app/precache-manifest.9bcac8875d2a1eddf3bb8c66d8ec365c.js",
     "service-worker.js": "/campus-crud-app/service-worker.js",
-    "static/css/main.485018c5.chunk.css.map": "/campus-crud-app/static/css/main.485018c5.chunk.css.map"
+    "static/css/main.140f6674.chunk.css.map": "/campus-crud-app/static/css/main.140f6674.chunk.css.map",
+    "static/media/BMCC.jpg": "/campus-crud-app/static/media/BMCC.b7b3d712.jpg",
+    "static/media/City_Tech.png": "/campus-crud-app/static/media/City_Tech.edb4a5cd.png",
+    "static/media/lehman-college.jpg": "/campus-crud-app/static/media/lehman-college.6c8a020e.jpg"
   }
 }
