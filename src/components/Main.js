@@ -7,6 +7,7 @@ import StudentNewForm from './StudentNewForm';
 import CampusNewForm from './CampusNewForm';
 import BlankSlateStudents from './BlankSlateStudents';
 import BlankSlateCampus from './BlankSlateCampus';
+import CampusCard from './CampusCard';
 
 
 const Main = () => (
@@ -15,6 +16,7 @@ const Main = () => (
       <Route path='/Home' component={Home}/>
       <Route path='/Students Listing' component={Students}/>
       <Route path='/Campus Listing' component={Campus}/>
+      <Route path='/Campus Card' component={CampusCard}/>
       <Route path='/New Student Form' component={StudentNewForm}/>
       <Route path='/New Campus Form' component={CampusNewForm}/>
       <Route path='/Blank Slate Students' component={BlankSlateStudents}/>
