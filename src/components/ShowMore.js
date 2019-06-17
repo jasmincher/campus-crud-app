@@ -15,7 +15,6 @@ function ShowMore(props) {
             
 
             <div className="buttons">
-
             <button className="btn btn-primary btn-sm">Edit</button>
             <button className="btn btn-danger btn-sm">Delete</button>
             </div>
