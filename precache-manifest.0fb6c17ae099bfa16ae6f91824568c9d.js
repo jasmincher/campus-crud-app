@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0ab5749fd56df952b0da02c16e88b9ce",
+    "revision": "445f8b16768368b839ff90102bc1d6e9",
     "url": "/campus-crud-app/index.html"
   },
   {
-    "revision": "6acc81b624f570873b57",
+    "revision": "a118a35e8b2bd9b38ff8",
     "url": "/campus-crud-app/static/css/main.cb19baee.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/campus-crud-app/static/js/2.688f0cce.chunk.js"
   },
   {
-    "revision": "6acc81b624f570873b57",
-    "url": "/campus-crud-app/static/js/main.fb4985c6.chunk.js"
+    "revision": "a118a35e8b2bd9b38ff8",
+    "url": "/campus-crud-app/static/js/main.405a6b8d.chunk.js"
   },
   {
     "revision": "668ec3fb942034dcd839",
