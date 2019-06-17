@@ -15,23 +15,32 @@ const Campuses = () => (
 
     <div>
         <div>
-        <h2 className="top">All Campuses</h2>
+            <h2 className="top">All Campuses</h2>
 
 
 
-        <Link to="/New Campus Form">
-        <AddButton name="Add Campus" className="button"/>
+            <Link to="/New Campus Form">
+                <AddButton name="Add Campus" className="button" />
+
+            </Link>
+
+        </div>
+
+
+        <Link to="/Show Campus">
+            <CampusCard campusName="BMCC" description="3 Students" img={BMCC} />
 
         </Link>
 
-        </div>
-      
-        <CampusCard campusName="BMCC"  description="3 Students" img={BMCC} />
-        <CampusCard campusName="City Tech"  description="2 Students" img={CityTech} />
-        <CampusCard campusName="Lehman College"  description="2 Students" img={Lehman} />
+        <Link to="/Show Campus">
+            <CampusCard campusName="City Tech" description="2 Students" img={CityTech} />
+        </Link>
 
-    
-   
+        <Link to="/Show Campus">
+            <CampusCard campusName="Lehman College" description="2 Students" img={Lehman} />
+        </Link>
+
+
 
     </div>
 

@@ -1,26 +1,26 @@
 
 import React from 'react';
-import profile from '../images/profile.jpg';
+import lehman from '../images/lehman-college.jpg';
 import ShowMore from './ShowMore';
 import '../ CSS/ShowMore.css';
 import { Link } from 'react-router-dom';
 
 
 
-const ShowStudent = () => (
-
+const ShowCampus = () => (
 
     <div>
-        <ShowMore img={profile} name="Jane Doe" info="3.5 GPA" />
+        <ShowMore img={lehman} name="Lehman College" info="lorem ipsum" />
         <div className="buttons">
 
-        <Link to="/Edit Student">
-            <button className="btn btn-primary btn-sm">Edit</button>
+            <Link to="/Edit Campus">
+                <button className="btn btn-primary btn-sm">Edit</button>
             </Link>
+
             <button className="btn btn-danger btn-sm">Delete</button>
         </div>
     </div>
 
 )
 
-export default ShowStudent;
+export default ShowCampus;
