@@ -7,6 +7,7 @@ import StudentNewForm from './StudentNewForm';
 import CampusNewForm from './CampusNewForm';
 import BlankSlateStudents from './BlankSlateStudents';
 import BlankSlateCampus from './BlankSlateCampus';
+import ShowStudent from './ShowStudent';
 
 
 const Main = () => (
@@ -18,7 +19,9 @@ const Main = () => (
       <Route path='/New Student Form' component={StudentNewForm}/>
       <Route path='/New Campus Form' component={CampusNewForm}/>
       <Route path='/Blank Slate Students' component={BlankSlateStudents}/>
-      <Route path='/Blank Slate Campus' component={BlankSlateCampus}/>
+      <Route path='/Blank Slate Campus' component={BlankSlateCampus} />
+      <Route path='/Show Student' component={ShowStudent}/>
+
     </Switch>
 
 )

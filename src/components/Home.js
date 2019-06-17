@@ -14,6 +14,7 @@ const Home = () => (
     <Link className="nav-link" to="/Blank Slate Students">Blank Slate Students</Link>
     <Link className="nav-link" to="/New Campus Form">New Campus Form</Link>
     <Link className="nav-link" to="/Blank Slate Campus">Blank Slate Campus</Link>
+    <Link className="nav-link" to="/Show Student">Show Student</Link>
 
   </div>
 )
