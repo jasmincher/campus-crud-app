@@ -5,7 +5,7 @@ import EditForm from './EditForm';
 
 
 
-const ShowStudent = () => (
+const EditStudent = () => (
 
 
     <div>
@@ -14,4 +14,4 @@ const ShowStudent = () => (
 
 )
 
-export default ShowStudent;
+export default EditStudent;

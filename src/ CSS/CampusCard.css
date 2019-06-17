@@ -13,6 +13,7 @@ display: inline-block;
 border: black 1px solid;
 box-shadow: 8px 8px 10px rgb(194, 194, 194);
 transition: transform .1s; 
+color: black;
 
 }
 

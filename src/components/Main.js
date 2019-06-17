@@ -10,6 +10,8 @@ import BlankSlateCampus from './BlankSlateCampus';
 import ShowStudent from './ShowStudent';
 import EditStudent from './EditStudent';
 import ShowCampus from './ShowCampus';
+import EditCampus from './EditCampus';
+
 
 
 const Main = () => (
@@ -24,7 +26,8 @@ const Main = () => (
       <Route path='/Blank Slate Campus' component={BlankSlateCampus} />
       <Route path='/Show Student' component={ShowStudent}/>
       <Route path='/Edit Student' component={EditStudent}/>
-      <Route path='/Show Campus' component={ShowCampus}/>
+      <Route path='/Show Campus' component={ShowCampus}/>     
+      <Route path='/Edit Campus' component={EditCampus}/>
 
 
 

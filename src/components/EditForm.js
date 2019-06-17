@@ -3,6 +3,15 @@ import AddButton from './AddButton';
 import '../ CSS/EditForm.css';
 
 function EditForm(props) {
+    let something = <br />;
+
+
+    if (props.input3)
+        something = (<div className="form-group justify-content-sm-center">
+            <label className="col-sm-2 col-form-label">Campus Description</label>
+            <textarea className="col-sm-2 " id="text-area" rows="3"></textarea>
+        </div>);
+
     return (
 
 
@@ -33,6 +42,8 @@ function EditForm(props) {
                 </div>
             </div>
 
+
+            {something}
 
             <AddButton name="Save Changes" className="button" />
         </form>
